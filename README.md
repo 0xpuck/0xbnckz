@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Front End Developer and Python Developer<br>*A creative and skilled front-end developer with over 7 years of experience in building web applications using ASP.NET, JavaScript, Ajax, and JQuery. Proficient in using these technologies to create intuitive, efficient, and user-friendly user interfaces. Experienced in working with dynamic loading of ASP.NET forms, which is a valued additional skill. A team player who can collaborate effectively with back-end developers and other stakeholders.<br>*A seasoned Python developer with over 7 years of experience in developing, testing, and deploying web applications,<br> data pipelines, and machine learning models using Python and various frameworks and tools.<br> Proficient in t-SQL, XML, and enterprise schedulers, as well as algorithms, data structures, and design patterns.<br> Highly analytical, organized, and collaborative, with a proven track record of delivering high-quality products and solutions.<br>- 📚 I'm currently learning AI<br>- ⚡ Additionally, I'm dabbling in figma design.<br>https://figma.com/@alocparker</p>
+<p align="left">- 🔭 I’m working as Front End Developer and Python Developer<br>*A creative and skilled front-end developer with over 7 years of experience in building web applications using ASP.NET, JavaScript, Ajax, and JQuery. Proficient in using these technologies to create intuitive, efficient, and user-friendly user interfaces. Experienced in working with dynamic loading of ASP.NET forms, which is a valued additional skill. A team player who can collaborate effectively with back-end developers and other stakeholders.<br>*A seasoned Python developer with over 7 years of experience in developing, testing, and deploying web applications,<br> data pipelines, and machine learning models using Python and various frameworks and tools.<br> Proficient in t-SQL, XML, and enterprise schedulers, as well as algorithms, data structures, and design patterns.<br> Highly analytical, organized, and collaborative, with a proven track record of delivering high-quality products and solutions.<br>- 📚 I'm currently learning AI<br>- ⚡ Additionally, I'm dabbling in figma design.</p>
 
 ###
 
@@ -92,6 +92,7 @@
 <p><b>Skype: live:.cid.c6ec251a0541b036</p>
 <p>Discord: intelheropuck</p>
 <p>WhatsApp: 19157049643</p>
+<p>Telegram: intelheropuck1220</p>
 <p>Gmail: alocparker1220@gmail.com</p>
 
 ###
