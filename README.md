@@ -91,7 +91,7 @@
 
 <p><b>Skype: live:.cid.c6ec251a0541b036</p>
 <p>Discord: intelheropuck</p>
-<p>WhatsApp: +19157049643</p>
+<p>WhatsApp: +1 (318) 573-1417</p>
 <p>Telegram: @intelheropuck1220</p>
 <p>Gmail: alocparker1220@gmail.com</p>
 
