@@ -30,7 +30,7 @@
 ## Stats
 
 <section style="margin-top: 6rem; margin-bottom: 6rem;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkindalov&show_icons=true&locale=en" alt="pkindalov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xbnck&show_icons=true&locale=en" alt="pkindalov" /></p>
 </section>
 
 
