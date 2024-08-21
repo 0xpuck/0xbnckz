@@ -9,7 +9,7 @@
 ---
 
 <div id="stat" align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkindalov&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="pkindalov" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkindalov&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="pkindalov" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
 </div>
 
@@ -29,8 +29,9 @@
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonkirathe&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkirathe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<section style="margin-top: 6rem; margin-bottom: 6rem;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkindalov&show_icons=true&locale=en" alt="pkindalov" /></p>
+</section>
 
-![0xbnck's github stats](https://github-readme-stats.vercel.app/api?username=0xbnck&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkindalov)](https://git.io/streak-stats)
