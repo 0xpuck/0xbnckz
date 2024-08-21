@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=1000&lines=👋+Full+Stack+Developer+Senior+Blockchain+Engineer;"></h1>
-
+<h1 align="center" color=%23C8BE25>👋 Full Stack Developer && Senior Blockchain Engineer</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=1000&lines=👋+Full+Stack+Developer+Senior+Blockchain+Engineer;">
 <div align="center">
   <a href="https://github.com/0xbnck">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=0xbnck&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
