@@ -9,7 +9,6 @@
 ---
 
 <div id="stat" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkindalov&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="pkindalov" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
 </div>
 
@@ -29,9 +28,3 @@
 
 ## Stats
 
-<section style="margin-top: 6rem; margin-bottom: 6rem;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xbnck&show_icons=true&locale=en" alt="pkindalov" /></p>
-</section>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkindalov)](https://git.io/streak-stats)
