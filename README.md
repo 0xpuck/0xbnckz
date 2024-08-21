@@ -9,7 +9,7 @@
 ---
 
 <div id="stat" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=github_dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=viridescent" alt=""/>
     <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=0xbnck&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=150" />
 </div>
 
