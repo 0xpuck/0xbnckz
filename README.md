@@ -11,7 +11,7 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xbnck&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xbnck&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs/?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
 </div>
 
