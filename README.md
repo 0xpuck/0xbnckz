@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/YosephSE">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=0xbnck&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=0xbnck&data=followers,repositories,commits" alt="GitHub WidgetBox">
   </a>
 </div>
 
