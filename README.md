@@ -11,8 +11,7 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xbnck&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xbnck&theme=github_dark" alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkirathe&layout=compact&theme=github_dark" alt=""/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkirathe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbnck&hide=html&theme=github_dark&layout=compact" alt=""/>
 </div>
 
 ## Languages and Tools
