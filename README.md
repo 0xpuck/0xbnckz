@@ -1,4 +1,4 @@
-<h1 align="center">👋, <img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=500&height=50&lines=👋+Full+Stack+Developer+&&+Senior+Blockchain+Engineer;"></h1>
+<h1 align="center">👋, <img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=500&height=50&lines=👋+Full+Stack+Developer+Senior+Blockchain+Engineer;"></h1>
 
 <div align="center">
   <a href="https://github.com/0xbnck">
