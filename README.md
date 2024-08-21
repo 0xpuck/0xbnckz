@@ -9,9 +9,8 @@
 ---
 
 <div id="stat" align="center" display="flex">
-  <div width=50%>
-    ## Languages and Tools
-    <span>
+  <span width=50%>
+    ## Languages and Tools    
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -22,7 +21,6 @@
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-    </span>
-  </div>
+  </span>
     <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=0xbnck&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=150" />
 </div>
