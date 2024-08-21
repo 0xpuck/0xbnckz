@@ -8,7 +8,7 @@
 
 ---
 
-<div id="stat" align="center" style="display: "flex">
+<div id="stat" align="center" display="flex">
     ## Languages and Tools
     <div>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
